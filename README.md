@@ -1,7 +1,10 @@
 # simple-curl
-텍스트 웹 브라우저 만들기
+텍스트 웹 브라우저 만들기 
 
 HTTP Reqeest Message 
+
+Linux command curl means Client URL
+
 ## Usage
 Usage: scurl [options] url
 Options:
